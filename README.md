@@ -1,4 +1,5 @@
-# Book Inventory (MERN-style)
+# Ishan Sudarsan
+
 
 A simple Book Inventory project with:
 - Backend: Node.js + Express + MongoDB (Mongoose)
